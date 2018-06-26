@@ -1,0 +1,5 @@
+Open PowerShell as Administrator
+
+Run below command to get up to date Azure RM module
+
+>>Install-Module -Name AzureRM -AllowClobber -Force

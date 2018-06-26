@@ -1,0 +1,4 @@
+D:\GitHub\ConnectedDeviceStudio\sfDeviceLib\NodejsSDK_Sample\obj\Debug\NodejsSDK_Sample.njsproj.CoreCompileInputs.cache
+D:\GitHub\ConnectedDeviceStudio\sfDeviceLib\NodejsSDK_Sample\bin\Microsoft.NodejsTools.WebRole.dll
+D:\GitHub\MS-CDStudio\CDS\sfDeviceLib\NodejsSDK_Sample\obj\Debug\NodejsSDK_Sample.njsproj.CoreCompileInputs.cache
+D:\GitHub\MS-CDStudio\CDS\sfDeviceLib\NodejsSDK_Sample\bin\Microsoft.NodejsTools.WebRole.dll
